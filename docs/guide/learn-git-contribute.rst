@@ -42,7 +42,7 @@ Start using Git and modify the source file of a page
     1. In macOS: Open the **Terminal** app.
     2. In Windows: From the Start Menu, open **Git Bash**.
 
-5.  Navigate to or create the directory to where you want to clone the repository. 
+5.  Navigate to or create the directory where you want to clone the repository. 
 
 6.  In your terminal window, type ``git clone``, followed by a space,
     and then paste the project URL:
